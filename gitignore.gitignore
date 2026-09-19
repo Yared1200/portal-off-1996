@@ -1,0 +1,16 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node.js / Dependency folders (if using N.P.M.)
+node_modules/
+npm-debug.log*
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.swp
+
+# Build output directories
+dist/
+build/
