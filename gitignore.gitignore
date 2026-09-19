@@ -1,0 +1,17 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Env files and local stuff
+.env
+.env.local
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.swp
+
+# Build output directories
+dist/
+build/
+.cache/
